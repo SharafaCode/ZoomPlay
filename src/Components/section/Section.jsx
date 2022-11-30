@@ -16,7 +16,7 @@ const Section = () => {
             <SideNav/>
           </div>
             <div className="news-header">
-              
+
               <div className='artist-news'>
                 <div>
                   <h1>
@@ -26,7 +26,7 @@ const Section = () => {
                 <div>
                   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis esse dolores hic culpa placeat libero veritatis pariatur. Nesciunt, vel praesentium?</p>
                 </div>
-                <div>
+                <div className='news-btn'>
                   <button>PLAY</button>
                   <button>FOLLOW</button>
                 </div>

@@ -11,8 +11,7 @@
 
 .news-header{
     width: 100%;
-    min-height: 40vh;
-   
+    min-height: 45vh;
     background: url("../../assets/Music-Image/bg-removebg-preview.png");
     background-position: center;
     background-size: cover;
@@ -25,8 +24,29 @@
     display: flex;
     flex-direction: column;
     align-items: left;
-    justify-content: left;
+    justify-content: center;
+    gap: 1rem;
     padding-top: 6.5rem;
+    height: 40vh;
   
-   
+}
+
+.artist-news h1{
+    font-size: 2rem;
+}
+.artist-news p{
+    font-size: 1.2rem;
+}
+
+.artist-news button{
+    padding: .8rem 3rem;
+    border-radius: 50px;
+    background: rgba(250, 205, 102, 1);
+    border: none;
+    font-size: 1.6rem;
+}
+
+.news-btn{
+    display: flex;
+    gap: 2rem;
 }

@@ -1,6 +1,7 @@
 header{
     width: 100%;
     min-height: 12vh;
+    position: fixed;
    
 }
 

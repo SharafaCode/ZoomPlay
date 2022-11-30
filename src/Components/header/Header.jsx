@@ -1,11 +1,13 @@
 import React from 'react';
 import './header.css';
-import MenuIcon from '../../assets/Music Image/menu icon.png';
-import Logo from '../../assets/Music Image/logo.png';
-import Search from '../../assets/Music Image/search_icon.png';
+import MenuIcon from '../../assets/Music-Image/menu icon.png';
+import Logo from '../../assets/Music-Image/logo.png';
+import Search from '../../assets/Music-Image/search_icon.png';
 
 const Header = () => {
+
   return (
+
    <header>
     <nav>
 
@@ -30,7 +32,9 @@ const Header = () => {
         
     </nav>
    </header>
+
   )
+  
 }
 
 export default Header

@@ -1,11 +1,7 @@
-.aside-container{
-    width: 100%;
-    min-height: 100vH;
-}
 
 .content-wrapper{
 
-    width: 65vw;
+    width: 0;
     min-height: 100vh;
     background: #0e0e0e;
     display: flex;
@@ -38,6 +34,8 @@
     font-size: 700;
     color: rgba(239, 238, 224, 0.527);
     cursor: pointer;
+    overflow: hidden;
+    
 }
 
 .links h1{

@@ -1,20 +1,40 @@
 import React from 'react'
+import './section.css'
 import Header from '../header/Header'
-import SideNav from '../home/sidenav/SideNav'
+import SideNav from '../home/sidenav/SideNav';
+import BG from '../../assets/Music-Image/bg.png'
 
 const Section = () => {
   return (
-    <section>
-        <article>
+    <section className='section-container'>
+        <article className='section-wrapper'>
           <div>
 
             <Header/>
           </div>
-          <div>
+          <div className='aside'>
             <SideNav/>
           </div>
-            <div className="section-content">
+            <div className="news-header">
               
+              <div className='artist-news'>
+                <div>
+                  <h1>
+                    Wizkid
+                  </h1>
+                </div>
+                <div>
+                  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis esse dolores hic culpa placeat libero veritatis pariatur. Nesciunt, vel praesentium?</p>
+                </div>
+                <div>
+                  <button>PLAY</button>
+                  <button>FOLLOW</button>
+                </div>
+              </div>
+                
+            </div>
+            <div className="section-content">
+
             </div>
         </article>
     </section>

@@ -3,6 +3,7 @@
     min-height: 40vh;
     margin-top: 6rem;
     overflow: hidden;
+    border: .5rem solid red;
  }
  
  .banner{
@@ -24,12 +25,14 @@
     top: 0;
     left: 0;
     opacity: 1;
+    overflow: hidden;
 
 }
  .banner .active-banner{
 
     opacity: 1;
     transform: translateX(0);
+    overflow: hidden;
 }
 
 .banner .next-banner{
@@ -45,7 +48,18 @@
 .banner img{
 
     width: 100%;
-    object-fit: contain;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
   
    
+}
+
+.btn{
+    margin-top: 20rem;
+}
+
+button{
+    font-size: 2;
 }

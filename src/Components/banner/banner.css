@@ -1,65 +1,52 @@
  .banner-section{
     width: 100%;
-    min-height: 40vh;
-    margin-top: 6rem;
-    overflow: hidden;
-    border: .5rem solid red;
+    min-height: 30Vh;
  }
  
- .banner{
-   
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
- 
-}
+.banner-article{
 
- .banner .banners{
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    position: absolute;
-    top: 0;
-    left: 0;
-    opacity: 1;
-    overflow: hidden;
-
-}
- .banner .active-banner{
-
-    opacity: 1;
-    transform: translateX(0);
-    overflow: hidden;
-}
-
-.banner .next-banner{
-
-    
-    transform: translateX(100%);
-}
-.banner .last-banner{
-
-
-    transform: translateX(100%);
-}
-.banner img{
-
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    background:url('../../assets/Music-Image/bg-removebg-preview.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     object-fit: cover;
-  
-   
+    min-height: 30Vh;
+
 }
 
-.btn{
-    margin-top: 20rem;
+.banner-content{
+
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    gap: 1rem;
+    min-height: 30vh;
+    padding-top: 3rem;
+    
 }
 
-button{
-    font-size: 2;
+.artise-name h1{
+
+    font-size: 2.2rem;
+}
+
+.artise-details p{
+
+    font-size: 1rem;
+}
+
+.bttns{
+
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 2rem;
+
+}
+
+.buttn{
+    padding: .5rem 2rem;
+    background: rgba(250, 205, 102, 1);
+    font-size: 1rem;
 }

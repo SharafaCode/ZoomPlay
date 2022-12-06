@@ -25,7 +25,10 @@ a{
     text-decoration: none;
     color: #efefef;
 }
+
 button{
-    color: #efefef;
+    
+    border: none;
+    outline: none;
 }
 

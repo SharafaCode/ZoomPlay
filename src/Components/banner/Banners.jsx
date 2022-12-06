@@ -20,7 +20,7 @@ const Banners = () => {
                </div>
                <div className='artise-details'>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos consequuntur sit, corporis officiis optio molestias.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos <br /> consequuntur sit, corporis officiis optio molestias.
                 </p>
                </div>
                <div className='bttns'>

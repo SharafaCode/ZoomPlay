@@ -1,7 +1,7 @@
 import React from 'react';
 import Section from '../section/Section';
 import './home.css'
-import SideNav from './sidenav/SideNav';
+import SideNav from '../sidenav/SideNav';
 
 const Home = () => {
   return (

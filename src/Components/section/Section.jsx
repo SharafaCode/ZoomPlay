@@ -1,7 +1,7 @@
 import React from 'react';
 import './section.css';
 import Header from '../header/Header';
-import SideNav from '../home/sidenav/SideNav';
+import SideNav from '../sidenav/SideNav';
 import Banner from '../banner/Banners'
 
 const Section = () => {

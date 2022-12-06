@@ -5,12 +5,8 @@ import {MdPerson, MdVideoLibrary } from "react-icons/md";
 import { BsFillCollectionPlayFill } from "react-icons/bs";
 import { HiRadio } from "react-icons/hi2";
 import { IoLogOut } from "react-icons/io5";
-// import HomeIcon from '../../../assets/Music Image/Home icon.png'
-// import PlayListIcon from '../../../assets/Music Image/playlist icon.png';
-// import RadioIcon from '../../../assets/Music Image/radio icon.png';
-// import VideoIcon from '../../../assets/Music Image/videos icon.png';
-// import ProfileIcon from '../../../assets/Music Image/profile icon.png';
-// import LogoutIcon from '../../../assets/Music Image/logout icon.png';
+
+
 const SideNav = () => {
   return (
     <aside className='aside-container'>

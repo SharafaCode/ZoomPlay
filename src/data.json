@@ -2,6 +2,7 @@
 [
     {
      "id": 1,
+     "category": true,
      "artis": "Asake Ft (Burna Boy)",
      "title": "Sungba-Remix",
      "poster": "./assets/Music-Image/Asake-Ft-Burna-Boy-–-Sungba-Remix-e1648405473506.jpeg",
@@ -10,6 +11,7 @@
     },
     {
      "id": 2,
+     "category": true,
      "artis": "Austin Emmanuel",
      "title": "sShey You dey whine me",
      "poster": "./assets/Music-Image/Austine-Emmanuel-–-You-Dey-Whine-Me-Shey-You-Dey-Whine-Mi-Ni.webp",
@@ -18,6 +20,7 @@
     },
     {
      "id": 3,
+     "category": true,
      "artis": "Bella Shmurda Ft (Omah Lay)",
      "title": "Philo",
      "poster": "./assets/Music-Image/Bella-Shmurda-Ft.-Omah-Lay-–-Philo.webp",
@@ -26,6 +29,7 @@
     },
     {
      "id": 4,
+     "category": true,
      "artis": "Blaqbones",
      "title": "Hot Boy",
      "poster": "./assets/Music-Image/Blaqbonez-–-Hot-Boy.webp",
@@ -34,6 +38,7 @@
     },
     {
      "id": 5,
+     "category": true,
      "artis": "Boy Spyce",
      "title": "So Bad",
      "poster": "./assets/Music-Image/Boy-Spyce-–-So-Bad.webp",
@@ -42,6 +47,7 @@
     },
     {
      "id": 6,
+     "category": true,
      "artis": "Burna Boy",
      "title": "Alone",
      "poster": "./assets/Music Image/Burna-Boy-–-Alone.webp",
@@ -50,6 +56,7 @@
     },
     {
      "id": 7,
+     "category": true,
      "artis": "Fireboy-DML",
      "title": "Bandana",
      "poster": "./assets/Music-Image/fireboy-dml-–-bandana-ft-asake.jpg",
@@ -58,6 +65,7 @@
     },
     {
      "id": 8,
+     "category": true,
      "artis": "RunTown",
      "title": "Things I Know",
      "poster": "./assets/Music Image/images-3.jpeg",
@@ -66,6 +74,7 @@
     },
     {
      "id": 9,
+     "category": true,
      "artis": "Johnny Drille",
      "title": "Lover",
      "poster": "./assets/Music Image/Johnny-Drille-Ft.-Phyno-–-Lover.webp",
@@ -74,14 +83,7 @@
     },
     {
      "id": 10,
-     "artis": "Khaid Ft(Zlatan)",
-     "title": "Amala",
-     "poster": "./assets/Music-Image/Khaid-Ft-Zlatan-Rexxie-–-Amala.webp",
-     "audio": "./assets/Music audio/Khaid_Ft_Zlatan_Rexxie_-_Amala.mp3"
-
-    },
-    {
-     "id": 10,
+     "category": true,
      "artis": "Khaid Ft(Zlatan)",
      "title": "Amala",
      "poster": "./assets/Music-Image/Khaid-Ft-Zlatan-Rexxie-–-Amala.webp",
@@ -90,6 +92,17 @@
     },
     {
      "id": 11,
+     
+     "category": false,
+     "artis": "Khaid Ft(Zlatan)",
+     "title": "Amala",
+     "poster": "./assets/Music-Image/Khaid-Ft-Zlatan-Rexxie-–-Amala.webp",
+     "audio": "./assets/Music audio/Khaid_Ft_Zlatan_Rexxie_-_Amala.mp3"
+
+    },
+    {
+     "id": 12,
+     "category": false,
      "artis": "Kizz Daniel",
      "title": "Cough Odo",
      "poster": "./assets/Music-Image/Kizz-Daniel-–-Cough-Odo.webp",
@@ -97,7 +110,8 @@
 
     },
     {
-     "id": 12,
+     "id": 13,
+     "category": false,
      "artis": "Kerede Bello",
      "title": "Available",
      "poster": "./assets/Music-Image/Korede-Bello-–-Available.webpp",
@@ -105,7 +119,8 @@
 
     },
     {
-     "id": 13,
+     "id": 14,
+     "category": false,
      "artis": "Lade",
      "title": "All The Way",
      "poster": "./assets/Music-Image/Lade-–-All-The-Way.webp",
@@ -113,7 +128,8 @@
 
     },
     {
-     "id": 14,
+     "id": 15,
+     "category": false,
      "artis": "Mavins",
      "title": "Won Da Mo",
      "poster": "./assets/Music-Image/Mavins-–-Won-Da-Mo-ft.-Rema-Crayon-Ayra-Starr-Boy-Spyce-Bayanni-Magixx-LADIPOE-Johnny-Drille.png",
@@ -121,7 +137,8 @@
 
     },
     {
-     "id": 15,
+     "id": 16,
+     "category": false,
      "artis": "Naira Marley",
      "title": "VAwulence",
      "poster": "./assets/Music-Image/Naira-Marley-Ft-Backroad-Gee-–-Vawulence.webp",
@@ -129,7 +146,8 @@
 
     },
     {
-     "id": 16,
+     "id": 17,
+     "category": false,
      "artis": "Oladips",
      "title": "Detty December",
      "poster": "./assets/Music-Image/Oladips-–-Detty-December.webp",
@@ -137,7 +155,8 @@
 
     },
     {
-     "id": 17,
+     "id": 18,
+     "category": false,
      "artis": "Olamide",
      "title": "NATI",
      "poster": "./assets/Music-Image/Olamide-–-NATI.jpeg",
@@ -145,7 +164,8 @@
 
     },
     {
-     "id": 18,
+     "id": 19,
+     "category": false,
      "artis": "Otega",
      "title": "Surulere",
      "poster": "./assets/Music-Image/Otega-–-Surulere.webp",
@@ -153,7 +173,8 @@
 
     },
     {
-     "id": 19,
+     "id": 20,
+     "category": false,
      "artis": "Oxlade Ft (Mayorkun)",
      "title": "Bad Boy",
      "poster": "./assets/Music-Image/Oxlade-–-Bad-Boy-ft-Mayorkun.webp",
@@ -161,7 +182,8 @@
 
     },
     {
-     "id": 20,
+     "id": 21,
+     "category": null,
      "artis": "Patoranking",
      "title": "After Party",
      "poster": "./assets/Music-Image/Patoranking-–-After-Party.webp",
@@ -169,7 +191,8 @@
 
     },
     {
-     "id": 21,
+     "id": 22,
+     "category": null,
      "artis": "Ruger",
      "title": "Asiwaju",
      "poster": "./assets/Music-Image/Ruger-–-Asiwaju.webp",
@@ -177,7 +200,8 @@
 
     },
     {
-     "id": 22,
+     "id": 23,
+     "category": null,
      "artis": "Ruger",
      "title": "Red Flags",
      "poster": "./assets/Music-Image/Ruger-–-Red-Flags.webp",
@@ -185,7 +209,8 @@
 
     },
     {
-     "id": 23,
+     "id": 24,
+     "category": null,
      "artis": "Sarkodie Ft(BNXN)",
      "title": "Better Days",
      "poster": "./assets/Music-Image/Sarkodie-–-Better-Days-Ft.-BNXN-fka-Buju.webp",
@@ -193,7 +218,8 @@
 
     },
     {
-     "id": 24,
+     "id": 25,
+     "category": null,
      "artis": "Sey Vibes",
      "title": "BUllion",
      "poster": "./assets/Music-Image/Seyi-Vibez-–-Bullion-Van.webp",
@@ -201,7 +227,8 @@
 
     },
     {
-     "id": 25,
+     "id": 26,
+     "category": null,
      "artis": "Teni Ft(Mayorkun)",
      "title": "Maitama",
      "poster": "./assets/Music-Image/Teni-–-MAITAMA-ft.-Mayorkun-Costa-Titch-Chcco.webp",
@@ -209,7 +236,8 @@
 
     },
     {
-     "id": 26,
+     "id": 27,
+     "category": null,
      "artis": "Seyi Vibez Ft(Mayorkun)",
      "title": "Ten",
      "poster": "./assets/Music-Image/Seyi-Vibez-Ft.-Mayorkun-–-Ten.webp",
@@ -217,7 +245,8 @@
 
     },
     {
-     "id": 27,
+     "id": 28,
+     "category": null,
      "artis": "Tiwa Savage Ft(Asake)",
      "title": "Loaded",
      "poster": "./assets/Music-Image/Tiwa-Savage-Ft.-Asake-–-Loaded-Full-Song.webp",
@@ -225,7 +254,8 @@
 
     },
     {
-     "id": 28,
+     "id": 29,
+     "category": null,
      "artis": "Wande Coal Ft(Empire)",
      "title": "Umbrella",
      "poster": "./assets/Music-Image/Wande-Coal-–-Umbrella-Ft.-Empire.webp",
@@ -233,7 +263,8 @@
 
     },
     {
-     "id": 29,
+     "id": 30,
+     "category": null,
      "artis": "Wizkid",
      "title": "More Love Less Ego",
      "poster": "./assets/Music-Image/Wizkid-–-More-Love-Less-Ego.webp",
@@ -241,7 +272,8 @@
 
     },
     {
-     "id": 30,
+     "id": 31,
+     "category": null,
      "artis": "Yemi Alade Ft(Spice)",
      "title": "Bubble It",
      "poster": "./assets/Music-Image/Yemi-Alade-–-Bubble-It-ft.-Spice.jpg",

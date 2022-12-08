@@ -1,6 +1,6 @@
  .banner-section{
     width: 100%;
-    min-height: 30Vh;
+    min-height: 36Vh;
  }
  
 .banner-article{
@@ -10,7 +10,7 @@
     background-position: center;
     background-repeat: no-repeat;
     object-fit: cover;
-    min-height: 30Vh;
+    min-height: 36Vh;
 
 }
 
@@ -22,8 +22,25 @@
     justify-content: center;
     gap: 1rem;
     min-height: 30vh;
-    padding-top: 3rem;
+    padding: 4.5rem 0  3rem 0;
+    position: absolute;
+    opacity: 0;
+    overflow: hidden;
+    border: .2rem solid red;
     
+}
+
+.active-banner{
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.next-banner{
+    transform: translateX(100%);
+}
+
+.last-banner{
+    transform: translateX(-100%);
 }
 
 .artise-name h1{
@@ -34,6 +51,7 @@
 .artise-details p{
 
     font-size: 1rem;
+    width: 75%;
 }
 
 .bttns{
@@ -46,7 +64,7 @@
 }
 
 .buttn{
-    padding: .5rem 2rem;
+    padding: .8rem 2rem;
     background: rgba(250, 205, 102, 1);
     font-size: 1rem;
 }
